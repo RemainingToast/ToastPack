@@ -1,5 +1,5 @@
 ## ToastPack
-*aka FaxPax [Toasted Edition]*    
+*aka FaxPax [Toasted Edition]*
 
 ### Includes
 
@@ -8,6 +8,10 @@
 - BetterBedrock
 - ToastTotems
 - NoPumpkinOverlay
+
+### Installation
+
+Download and unzip the latest [release](https://github.com/RemainingToast/ToastPack/releases/) into your `.minecraft/resourcepacks` folder.
 
 ### Credits
 
