@@ -1,0 +1,8 @@
+FaxPax
+Version: 1.12
+Includes:
+	QuieterNetherPortals
+	LowerFire
+	BetterBedrock
+	FaxMachineTotems
+	NoPumpkinOverlay
